@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_4_4_Act2</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonReceive">buttonReceive</string>
+</resources>
